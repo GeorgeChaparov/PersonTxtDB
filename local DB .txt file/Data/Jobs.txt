@@ -1,0 +1,3 @@
+	Name: Miqch; Description: Programira<^>
+	Name: Bavachka; Description: Bavi<^>		
+	Name: Dizainer; Description: Mnoo chisti<^>

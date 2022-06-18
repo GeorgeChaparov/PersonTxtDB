@@ -1,0 +1,3 @@
+FirstName: Maria; LastName: Chaparova; Age: 23; Profession - (Name: Dizainer; Description: Dizainva)<^>
+FirstName: Georgi; LastName: Chaparov; Age: 19; Profession - (Name: Programist; Description: Programira)<^>
+FirstName: Ivan; LastName: Ivanov; Age: 34; Profession - (Name: Bavachka; Description: Bavi)<^>
